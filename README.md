@@ -20,9 +20,8 @@
 - Displays the tilte, author and bookcover of the first 40 results.
 
 ## Screenshot
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+![Phone Screenshot 2](https://user-images.githubusercontent.com/8432815/61989424-0a8b5180-affd-11e9-9cb2-8b41ee505c84.jpg)
 
 ## License
 
