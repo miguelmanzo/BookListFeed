@@ -21,7 +21,7 @@
 
 ## Screenshot
 
-![Phone Screenshot 2](https://user-images.githubusercontent.com/8432815/61989424-0a8b5180-affd-11e9-9cb2-8b41ee505c84.jpg)
+![Phone Screenshot 21](https://user-images.githubusercontent.com/8432815/61989445-75d52380-affd-11e9-9dd3-4edfa1cd8b3d.jpg)
 
 ## License
 
